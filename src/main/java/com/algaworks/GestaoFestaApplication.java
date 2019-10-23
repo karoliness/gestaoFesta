@@ -1,9 +1,9 @@
-package com.algaworks.gestaofesta;
+package com.algaworks;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-@SpringBootApplication(scanBasePackages = {"com.algaworks"})
+@SpringBootApplication
 public class GestaoFestaApplication {
 
 	public static void main(String[] args) {
